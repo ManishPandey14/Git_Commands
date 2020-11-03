@@ -6,7 +6,7 @@ class Hungry{
         boolean flag=true;
 
         if(flag==true){
-            System.out.println("Hungry");
+            System.out.println(" I am Hungry");
         }else{
             System.out.println("Not Hungry");
         }
