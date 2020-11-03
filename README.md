@@ -1,2 +1,2 @@
 # Git_Commands
-Working with different git commands.
+Demo practice and understanding different git commands.
